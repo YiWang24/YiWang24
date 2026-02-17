@@ -11,6 +11,8 @@
 
 CS Student at **York University** with a passion for building **AI-powered systems** and **multi-agent architectures**. I specialize in creating intelligent applications that leverage modern AI frameworks combined with robust full-stack development.
 
+- 🦾 **Contributor** at [OpenClaw](https://github.com/openclaw/openclaw) - The viral open-source AI agent (157K+ ⭐)
+
 - 🤖 Currently building **AI Agent Systems** using Google ADK & Spring AI
 - 🌐 Developing **interactive digital twins** with real-time capabilities
 - 🧠 Exploring **RAG**, **embeddings**, and **LLM orchestration**
