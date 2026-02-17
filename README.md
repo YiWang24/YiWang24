@@ -20,31 +20,13 @@ CS Student at **York University** with a passion for building **AI-powered syste
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 Contribution Activity
 
-### AI & Agent Frameworks
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Embeddings-FF6F61?style=for-the-badge)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java_21-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_+_pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![RxJava](https://img.shields.io/badge/RxJava3-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js_16.1-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript_5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4.0-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Doppler](https://img.shields.io/badge/Doppler-1E1E1E?style=for-the-badge&logo=doppler&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -75,19 +57,9 @@ An **intelligent digital twin portfolio** powered by **Google Agent Development 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YiWang24&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiWang24&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YiWang24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiWang24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top Languages" height="170" />
 </p>
-
----
-
-## 📈 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
@@ -105,6 +77,34 @@ An **intelligent digital twin portfolio** powered by **Google Agent Development 
 - 💼 **Portfolio**: [www.yiw.me](https://www.yiw.me)
 - 📧 **Email**: [wangyi98@my.yorku.ca](mailto:wangyi98@my.yorku.ca)
 - 💻 **GitHub**: You're already here! 😄
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & Agent Frameworks
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Embeddings-FF6F61?style=for-the-badge)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_+_pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![RxJava](https://img.shields.io/badge/RxJava3-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js_16.1-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript_5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4.0-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Doppler](https://img.shields.io/badge/Doppler-1E1E1E?style=for-the-badge&logo=doppler&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
