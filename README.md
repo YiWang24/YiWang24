@@ -3,6 +3,7 @@
 **Full-Stack AI Agent Developer** | **Multi-Agent Systems Architect** | **Toronto, Canada**
 
 [![Website](https://img.shields.io/badge/Portfolio-www.yiw.me-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.yiw.me)
+[![AiDIY](https://img.shields.io/badge/AiDIY-docs.yiw.me-00C7B7?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.yiw.me)
 [![Email](https://img.shields.io/badge/Email-wangyi98@my.yorku.ca-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wangyi98@my.yorku.ca)
 
 ---
