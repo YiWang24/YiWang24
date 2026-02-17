@@ -73,8 +73,8 @@ An **intelligent digital twin portfolio** powered by **Google Agent Development 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YiWang24&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiWang24&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YiWang24&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiWang24&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 ---
