@@ -1,19 +1,111 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yi Wang
-===============================================================================================================================
+# Hi, I'm Yi Wang 👋
 
-Student of Computer Science
----------------------------
+**Full-Stack AI Agent Developer** | **Multi-Agent Systems Architect** | **Toronto, Canada**
 
-I am a student at York University and majoring in CS
+[![Website](https://img.shields.io/badge/Portfolio-www.yiw.me-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.yiw.me)
+[![Email](https://img.shields.io/badge/Email-wangyi98@my.yorku.ca-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wangyi98@my.yorku.ca)
 
-* 🌍  I'm based in Toronto
-* ✉️  You can contact me at [wangyi98@my.yorku.ca](mailto:wangyi98@my.yorku.ca)
-* 🧠  I'm learning Web development
-* 🤝  I'm open to collaborating on Web projects
+---
 
-### Skills
+## 🚀 About Me
 
+CS Student at **York University** with a passion for building **AI-powered systems** and **multi-agent architectures**. I specialize in creating intelligent applications that leverage modern AI frameworks combined with robust full-stack development.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+- 🤖 Currently building **AI Agent Systems** using Google ADK & Spring AI
+- 🌐 Developing **interactive digital twins** with real-time capabilities
+- 🧠 Exploring **RAG**, **embeddings**, and **LLM orchestration**
+- 🤝 Open to collaborating on **AI/ML projects** and **innovative web applications**
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & Agent Frameworks
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Embeddings-FF6F61?style=for-the-badge)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_+_pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![RxJava](https://img.shields.io/badge/RxJava3-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js_16.1-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript_5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4.0-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Doppler](https://img.shields.io/badge/Doppler-1E1E1E?style=for-the-badge&logo=doppler&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🎯 Featured Project
+
+### 🤖 AI-Powered Interactive Portfolio
+
+An **intelligent digital twin portfolio** powered by **Google Agent Development Kit (ADK)** featuring a multi-agent system that acts as my virtual representative.
+
+**Key Features:**
+- 🎭 **5 Specialized Agents**: Router, Digital Twin, Tech Lead, Knowledge, Contact
+- 🔍 **RAG-powered semantic search** across documentation with pgvector
+- 📊 **GitHub integration** for live repository statistics
+- 💬 **Real-time AI chat** with Server-Sent Events streaming
+- 🖥️ **Interactive terminal** interface using xterm.js
+
+**Tech Highlights:**
+- Multi-agent orchestration with Google ADK 0.5.0
+- Spring Boot 3.2 + Java 21 backend
+- Next.js 16.1 + React 19 frontend
+- PostgreSQL + pgvector for embeddings
+- Framer Motion animations, Zustand state management
+
+🔗 **Live Demo**: [www.yiw.me](https://www.yiw.me) | **Source**: [YiWang24/portfolio](https://github.com/YiWang24/portfolio)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YiWang24&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiWang24&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🌱 Currently Learning
+
+- **Multi-Agent System Design** - Coordination patterns, agent communication
+- **LLM Orchestration** - Prompt engineering, RAG optimization
+- **Reactive Programming** - RxJava3, Project Reactor
+- **Modern Frontend** - React Server Components, Server Actions
+
+---
+
+## 📫 Let's Connect
+
+- 💼 **Portfolio**: [www.yiw.me](https://www.yiw.me)
+- 📧 **Email**: [wangyi98@my.yorku.ca](mailto:wangyi98@my.yorku.ca)
+- 💻 **GitHub**: You're already here! 😄
+
+---
+
+<p align="center">
+  <i>Building the future with AI, one agent at a time.</i> 🤖✨
 </p>
