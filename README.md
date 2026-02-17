@@ -75,6 +75,7 @@ An **intelligent digital twin portfolio** powered by **Google Agent Development 
 ## 📫 Let's Connect
 
 - 💼 **Portfolio**: [www.yiw.me](https://www.yiw.me)
+- 📚 **AiDIY**: [docs.yiw.me](https://docs.yiw.me)
 - 📧 **Email**: [wangyi98@my.yorku.ca](mailto:wangyi98@my.yorku.ca)
 - 💻 **GitHub**: You're already here! 😄
 
