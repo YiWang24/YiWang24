@@ -32,27 +32,93 @@ CS Student at **York University** with a passion for building **AI-powered syste
 
 ---
 
-## 🎯 Featured Project
+## 🎯 Featured Projects
 
-### 🤖 AI-Powered Interactive Portfolio
+### Core Products
 
-An **intelligent digital twin portfolio** powered by **Google Agent Development Kit (ADK)** featuring a multi-agent system that acts as my virtual representative.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>1) SREDSimplify</h4>
+      <a href="https://sredsimplify.com/">
+        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsredsimplify.com%2F?w=1200" alt="SREDSimplify live preview" />
+      </a>
+      <p>
+        <strong>SR&ED claim console</strong> with evidence ingestion, structured pre-checks, and audit-friendly T661 drafting workflow for founders and reviewers.
+      </p>
+      <p>
+        <a href="https://sredsimplify.com/">Website</a> · Repo: private/unavailable
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>2) Ai DIY Docs</h4>
+      <a href="https://docs.yiw.me/">
+        <img src="https://image.thum.io/get/width/1200/crop/700/https://docs.yiw.me/" alt="Ai DIY docs live preview" />
+      </a>
+      <p>
+        <strong>Engineering knowledge base</strong> covering CS core, AI agents, backend/frontend, and DevOps content, built as a production-ready documentation platform.
+      </p>
+      <p>
+        <a href="https://docs.yiw.me/">Website</a> · <a href="https://github.com/YiWang24/AiDIY">Repo</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>3) AI Portfolio Digital Twin</h4>
+      <a href="https://www.yiw.me/">
+        <img src="https://image.thum.io/get/width/1200/crop/700/https://www.yiw.me/" alt="Portfolio live preview" />
+      </a>
+      <p>
+        <strong>Multi-agent interactive portfolio</strong> with Google ADK orchestration, RAG retrieval, and streaming chat to answer resume/project questions in real time.
+      </p>
+      <p>
+        <a href="https://www.yiw.me/">Website</a> · <a href="https://github.com/YiWang24/portfolio">Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Key Features:**
-- 🎭 **5 Specialized Agents**: Router, Digital Twin, Tech Lead, Knowledge, Contact
-- 🔍 **RAG-powered semantic search** across documentation with pgvector
-- 📊 **GitHub integration** for live repository statistics
-- 💬 **Real-time AI chat** with Server-Sent Events streaming
-- 🖥️ **Interactive terminal** interface using xterm.js
+### 🏆 Hackathon Projects
 
-**Tech Highlights:**
-- Multi-agent orchestration with Google ADK 0.5.0
-- Spring Boot 3.2 + Java 21 backend
-- Next.js 16.1 + React 19 frontend
-- PostgreSQL + pgvector for embeddings
-- Framer Motion animations, Zustand state management
-
-🔗 **Live Demo**: [www.yiw.me](https://www.yiw.me) | **Source**: [YiWang24/portfolio](https://github.com/YiWang24/portfolio)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>FitLogic</h4>
+      <a href="https://fitlogic.vercel.app/">
+        <img src="https://image.thum.io/get/width/1200/crop/700/https://fitlogic.vercel.app/" alt="FitLogic live preview" />
+      </a>
+      <p>
+        <strong>AI fitness coaching experience</strong> focused on adaptive training + nutrition logic, progress analytics, and coach-assisted personalization.
+      </p>
+      <p>
+        <a href="https://fitlogic.vercel.app/">Website</a> · Repo: private/unavailable
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>SmartDiet Copilot</h4>
+      <a href="https://dietcopilot.vercel.app/">
+        <img src="https://image.thum.io/get/width/1200/crop/700/https://dietcopilot.vercel.app/" alt="SmartDiet Copilot live preview" />
+      </a>
+      <p>
+        <strong>Agentic AI dietitian</strong> that combines receipt/fridge/meal perception with goal-aware planning to reduce waste and deliver actionable meal decisions.
+      </p>
+      <p>
+        <a href="https://dietcopilot.vercel.app/">Website</a> · <a href="https://github.com/YiWang24/SmartDiet-Copilot">Repo</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>SplitBase</h4>
+      <a href="https://split.yiw.me/">
+        <img src="https://image.thum.io/get/width/1200/crop/700/https://split.yiw.me/" alt="SplitBase live preview" />
+      </a>
+      <p>
+        <strong>Base Pay bill-splitting app</strong> for group settlements with USDC, real-time status tracking, share links/QR flows, and optional NFT receipts.
+      </p>
+      <p>
+        <a href="https://split.yiw.me/">Website</a> · <a href="https://github.com/YiWang24/SplitBase">Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
