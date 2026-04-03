@@ -120,7 +120,6 @@ CS Student at **York University** with a passion for building **AI-powered syste
   </tr>
 </table>
 
-> Dynamic thumbnails are generated via `image.thum.io` from each live website and remain clickable to jump directly to the project site.
 
 ---
 
