@@ -41,7 +41,7 @@ CS Student at **York University** with a passion for building **AI-powered syste
     <td width="33%" valign="top">
       <h4>1) SREDSimplify</h4>
       <a href="https://sredsimplify.com/">
-        <img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsredsimplify.com%2F?w=1200" alt="SREDSimplify live preview" />
+        <img src="https://image.thum.io/get/width/1200/crop/700/https://sredsimplify.com/" alt="SREDSimplify live preview" />
       </a>
       <p>
         <strong>SR&ED claim console</strong> with evidence ingestion, structured pre-checks, and audit-friendly T661 drafting workflow for founders and reviewers.
@@ -119,6 +119,7 @@ CS Student at **York University** with a passion for building **AI-powered syste
     </td>
   </tr>
 </table>
+
 
 ---
 
