@@ -49,7 +49,9 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
         <strong>SR&ED claim console</strong> with evidence ingestion, structured pre-checks, and audit-friendly T661 drafting workflow for founders and reviewers.
       </p>
       <p>
-        <a href="https://sredsimplify.com/">Website</a> · Repo: private/unavailable
+        <a href="https://sredsimplify.com/" aria-label="SREDSimplify Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -61,7 +63,12 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
         <strong>Engineering knowledge base</strong> covering CS core, AI agents, backend/frontend, and DevOps content, built as a production-ready documentation platform.
       </p>
       <p>
-        <a href="https://docs.yiw.me/">Website</a> · <a href="https://github.com/YiWang24/AiDIY">Repo</a>
+        <a href="https://docs.yiw.me/" aria-label="Ai DIY Docs Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
+        <a href="https://github.com/YiWang24/AiDIY" aria-label="Ai DIY Docs Repository">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -73,7 +80,12 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
         <strong>Multi-agent interactive portfolio</strong> with Google ADK orchestration, RAG retrieval, and streaming chat to answer resume/project questions in real time.
       </p>
       <p>
-        <a href="https://www.yiw.me/">Website</a> · <a href="https://github.com/YiWang24/portfolio">Repo</a>
+        <a href="https://www.yiw.me/" aria-label="Portfolio Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
+        <a href="https://github.com/YiWang24/portfolio" aria-label="Portfolio Repository">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+        </a>
       </p>
     </td>
   </tr>
@@ -92,7 +104,9 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
         <strong>AI fitness coaching experience</strong> focused on adaptive training + nutrition logic, progress analytics, and coach-assisted personalization.
       </p>
       <p>
-        <a href="https://fitlogic.vercel.app/">Website</a> · Repo: private/unavailable
+        <a href="https://fitlogic.vercel.app/" aria-label="FitLogic Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -104,7 +118,12 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
         <strong>Agentic AI dietitian</strong> that combines receipt/fridge/meal perception with goal-aware planning to reduce waste and deliver actionable meal decisions.
       </p>
       <p>
-        <a href="https://dietcopilot.vercel.app/">Website</a> · <a href="https://github.com/YiWang24/SmartDiet-Copilot">Repo</a>
+        <a href="https://dietcopilot.vercel.app/" aria-label="SmartDiet Copilot Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
+        <a href="https://github.com/YiWang24/SmartDiet-Copilot" aria-label="SmartDiet Copilot Repository">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -116,7 +135,12 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
         <strong>Base Pay bill-splitting app</strong> for group settlements with USDC, real-time status tracking, share links/QR flows, and optional NFT receipts.
       </p>
       <p>
-        <a href="https://split.yiw.me/">Website</a> · <a href="https://github.com/YiWang24/SplitBase">Repo</a>
+        <a href="https://split.yiw.me/" aria-label="SplitBase Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
+        <a href="https://github.com/YiWang24/SplitBase" aria-label="SplitBase Repository">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+        </a>
       </p>
     </td>
   </tr>
