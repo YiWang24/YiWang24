@@ -1,6 +1,6 @@
-# Hi, I'm Yi Wang 👋
+# Hi, I'm Yi Wang
 
-**Full-Stack AI Agent Developer** | **Multi-Agent Systems Architect** | **Toronto, Canada**
+**AI Systems Builder · Full-Stack Engineer · Toronto, Canada**
 
 [![Website](https://img.shields.io/badge/Portfolio-www.yiw.me-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.yiw.me)
 [![AiDIY](https://img.shields.io/badge/AiDIY-docs.yiw.me-00C7B7?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.yiw.me)
@@ -9,30 +9,32 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-CS Student at **York University** with a passion for building **AI-powered systems** and **multi-agent architectures**. I specialize in creating intelligent applications that leverage modern AI frameworks combined with robust full-stack development.
+I am a CS student at **York University** focused on designing and shipping **AI-native products** that combine agent orchestration, reliable backend services, and strong product UX.
 
-- 🦾 **Contributor** at [OpenClaw](https://github.com/openclaw/openclaw) - The viral open-source AI agent (200K+ ⭐)
+I care most about long-term engineering directions:
+- **Direction 1 — Agentic Product Systems**: building practical multi-agent workflows for real user tasks.
+- **Direction 2 — Applied LLM Infrastructure**: RAG pipelines, retrieval quality, and robust inference workflows.
+- **Direction 3 — AI + Full-Stack Delivery**: turning models into production-ready web applications with measurable outcomes.
+- **Direction 4 — Developer Knowledge Platforms**: documenting reproducible patterns for AI engineering and software delivery.
 
-- 🤖 Currently building **AI Agent Systems** using Google ADK & Spring AI
-- 🌐 Developing **interactive digital twins** with real-time capabilities
-- 🧠 Exploring **RAG**, **embeddings**, and **LLM orchestration**
-- 🤝 Open to collaborating on **AI/ML projects** and **innovative web applications**
-
----
-
-## 📈 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
-</picture>
+Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively open to collaboration on product-focused AI projects.
 
 ---
 
-## 🎯 Featured Projects
+## Current Focus Map
+
+| Focus Direction | What I'm Building | Representative Output |
+| --- | --- | --- |
+| Agentic enterprise workflow | Structured claim intelligence and evidence-driven review | [SREDSimplify](https://sredsimplify.com/) |
+| AI engineering knowledge system | Production-style docs for CS/AI/backend/frontend/DevOps | [Ai DIY Docs](https://docs.yiw.me/) |
+| Interactive digital twin | Multi-agent portfolio with real-time Q&A and retrieval | [yiw.me](https://www.yiw.me/) |
+| Agentic consumer assistants | Personalized planning for fitness and nutrition contexts | [FitLogic](https://fitlogic.vercel.app/), [SmartDiet Copilot](https://dietcopilot.vercel.app/) |
+
+---
+
+## Featured Projects
 
 ### Core Products
 
@@ -47,7 +49,9 @@ CS Student at **York University** with a passion for building **AI-powered syste
         <strong>SR&ED claim console</strong> with evidence ingestion, structured pre-checks, and audit-friendly T661 drafting workflow for founders and reviewers.
       </p>
       <p>
-        <a href="https://sredsimplify.com/">Website</a> · Repo: private/unavailable
+        <a href="https://sredsimplify.com/" aria-label="SREDSimplify Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -59,7 +63,12 @@ CS Student at **York University** with a passion for building **AI-powered syste
         <strong>Engineering knowledge base</strong> covering CS core, AI agents, backend/frontend, and DevOps content, built as a production-ready documentation platform.
       </p>
       <p>
-        <a href="https://docs.yiw.me/">Website</a> · <a href="https://github.com/YiWang24/AiDIY">Repo</a>
+        <a href="https://docs.yiw.me/" aria-label="Ai DIY Docs Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
+        <a href="https://github.com/YiWang24/AiDIY" aria-label="Ai DIY Docs Repository">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -71,13 +80,18 @@ CS Student at **York University** with a passion for building **AI-powered syste
         <strong>Multi-agent interactive portfolio</strong> with Google ADK orchestration, RAG retrieval, and streaming chat to answer resume/project questions in real time.
       </p>
       <p>
-        <a href="https://www.yiw.me/">Website</a> · <a href="https://github.com/YiWang24/portfolio">Repo</a>
+        <a href="https://www.yiw.me/" aria-label="Portfolio Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
+        <a href="https://github.com/YiWang24/portfolio" aria-label="Portfolio Repository">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+        </a>
       </p>
     </td>
   </tr>
 </table>
 
-### 🏆 Hackathon Projects
+### Hackathon Products
 
 <table>
   <tr>
@@ -90,7 +104,9 @@ CS Student at **York University** with a passion for building **AI-powered syste
         <strong>AI fitness coaching experience</strong> focused on adaptive training + nutrition logic, progress analytics, and coach-assisted personalization.
       </p>
       <p>
-        <a href="https://fitlogic.vercel.app/">Website</a> · Repo: private/unavailable
+        <a href="https://fitlogic.vercel.app/" aria-label="FitLogic Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -102,7 +118,12 @@ CS Student at **York University** with a passion for building **AI-powered syste
         <strong>Agentic AI dietitian</strong> that combines receipt/fridge/meal perception with goal-aware planning to reduce waste and deliver actionable meal decisions.
       </p>
       <p>
-        <a href="https://dietcopilot.vercel.app/">Website</a> · <a href="https://github.com/YiWang24/SmartDiet-Copilot">Repo</a>
+        <a href="https://dietcopilot.vercel.app/" aria-label="SmartDiet Copilot Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
+        <a href="https://github.com/YiWang24/SmartDiet-Copilot" aria-label="SmartDiet Copilot Repository">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -114,7 +135,12 @@ CS Student at **York University** with a passion for building **AI-powered syste
         <strong>Base Pay bill-splitting app</strong> for group settlements with USDC, real-time status tracking, share links/QR flows, and optional NFT receipts.
       </p>
       <p>
-        <a href="https://split.yiw.me/">Website</a> · <a href="https://github.com/YiWang24/SplitBase">Repo</a>
+        <a href="https://split.yiw.me/" aria-label="SplitBase Website">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+        </a>
+        <a href="https://github.com/YiWang24/SplitBase" aria-label="SplitBase Repository">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+        </a>
       </p>
     </td>
   </tr>
@@ -122,7 +148,47 @@ CS Student at **York University** with a passion for building **AI-powered syste
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack (Aligned with Recent Projects)
+
+### AI & Agent Systems
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langgraph&logoColor=white)
+
+### Application Engineering
+![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend & Product Delivery
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### DevOps & Workflow
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-myl.vercel.app/api?username=YiWang24&show_icons=true&theme=default&hide_border=true&include_all_commits=true&bg_color=ffffff&title_color=6366f1&text_color=1f2937&icon_color=6366f1" alt="GitHub Stats" height="170" />
@@ -131,36 +197,6 @@ CS Student at **York University** with a passion for building **AI-powered syste
 
 ---
 
-## 🌱 Currently Learning
-
-- **Multi-Agent System Design** - Coordination patterns, agent communication
-- **LLM Orchestration** - Prompt engineering, RAG optimization
-- **Reactive Programming** - RxJava3, Project Reactor
-- **Modern Frontend** - React Server Components, Server Actions
-
----
-
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langgraph&logoColor=white)
-![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java_21-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RxJava](https://img.shields.io/badge/RxJava3-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_16.1-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript_5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4.0-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
 <p align="center">
-  <i>Building the future with AI, one agent at a time.</i> 🤖✨
+  <i>Building reliable AI products through clear engineering direction.</i>
 </p>
