@@ -41,7 +41,7 @@ CS Student at **York University** with a passion for building **AI-powered syste
     <td width="33%" valign="top">
       <h4>1) SREDSimplify</h4>
       <a href="https://sredsimplify.com/">
-        <img src="https://image.thum.io/get/width/1200/crop/700/https://sredsimplify.com/" alt="SREDSimplify live preview" />
+        <img src="./assets/projects/sredsimplify.png" alt="SREDSimplify live preview" />
       </a>
       <p>
         <strong>SR&ED claim console</strong> with evidence ingestion, structured pre-checks, and audit-friendly T661 drafting workflow for founders and reviewers.
@@ -53,7 +53,7 @@ CS Student at **York University** with a passion for building **AI-powered syste
     <td width="33%" valign="top">
       <h4>2) Ai DIY Docs</h4>
       <a href="https://docs.yiw.me/">
-        <img src="https://image.thum.io/get/width/1200/crop/700/https://docs.yiw.me/" alt="Ai DIY docs live preview" />
+        <img src="./assets/projects/aidiy-docs.png" alt="Ai DIY docs live preview" />
       </a>
       <p>
         <strong>Engineering knowledge base</strong> covering CS core, AI agents, backend/frontend, and DevOps content, built as a production-ready documentation platform.
@@ -65,7 +65,7 @@ CS Student at **York University** with a passion for building **AI-powered syste
     <td width="33%" valign="top">
       <h4>3) AI Portfolio Digital Twin</h4>
       <a href="https://www.yiw.me/">
-        <img src="https://image.thum.io/get/width/1200/crop/700/https://www.yiw.me/" alt="Portfolio live preview" />
+        <img src="./assets/projects/yiw-portfolio.png" alt="Portfolio live preview" />
       </a>
       <p>
         <strong>Multi-agent interactive portfolio</strong> with Google ADK orchestration, RAG retrieval, and streaming chat to answer resume/project questions in real time.
@@ -84,7 +84,7 @@ CS Student at **York University** with a passion for building **AI-powered syste
     <td width="33%" valign="top">
       <h4>FitLogic</h4>
       <a href="https://fitlogic.vercel.app/">
-        <img src="https://image.thum.io/get/width/1200/crop/700/https://fitlogic.vercel.app/" alt="FitLogic live preview" />
+        <img src="./assets/projects/fitlogic.png" alt="FitLogic live preview" />
       </a>
       <p>
         <strong>AI fitness coaching experience</strong> focused on adaptive training + nutrition logic, progress analytics, and coach-assisted personalization.
@@ -96,7 +96,7 @@ CS Student at **York University** with a passion for building **AI-powered syste
     <td width="33%" valign="top">
       <h4>SmartDiet Copilot</h4>
       <a href="https://dietcopilot.vercel.app/">
-        <img src="https://image.thum.io/get/width/1200/crop/700/https://dietcopilot.vercel.app/" alt="SmartDiet Copilot live preview" />
+        <img src="./assets/projects/dietcopilot.png" alt="SmartDiet Copilot live preview" />
       </a>
       <p>
         <strong>Agentic AI dietitian</strong> that combines receipt/fridge/meal perception with goal-aware planning to reduce waste and deliver actionable meal decisions.
@@ -108,7 +108,7 @@ CS Student at **York University** with a passion for building **AI-powered syste
     <td width="33%" valign="top">
       <h4>SplitBase</h4>
       <a href="https://split.yiw.me/">
-        <img src="https://image.thum.io/get/width/1200/crop/700/https://split.yiw.me/" alt="SplitBase live preview" />
+        <img src="./assets/projects/splitbase.png" alt="SplitBase live preview" />
       </a>
       <p>
         <strong>Base Pay bill-splitting app</strong> for group settlements with USDC, real-time status tracking, share links/QR flows, and optional NFT receipts.
@@ -119,7 +119,6 @@ CS Student at **York University** with a passion for building **AI-powered syste
     </td>
   </tr>
 </table>
-
 
 ---
 
