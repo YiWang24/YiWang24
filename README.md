@@ -101,16 +101,20 @@ I turn AI agents from demos into **production-grade systems** — my favorite pa
   <tr>
     <td width="50%" valign="top">
       <h4>🏆 Possibility — <i>Adventure X 2026 Track 1st Prize</i></h4>
+      <a href="https://www.maybeio.com/">
+        <img src="./assets/projects/possibility.png" alt="Possibility live preview" />
+      </a>
       <p>
         <strong>AI decision companion</strong> for young professionals navigating career transitions. A 3-stage funnel: streaming AI chat surfaces emotional context &amp; decision signals → structured matching with 3 real human experiences across different outcomes with rationale → paid conversion. Built solo in 6 days (189 commits) from concept to shipped product.
       </p>
       <p>
-        <a href="https://gallery.adventure-x.org/users/cmpaohzs4000302ky3zdmd1k3" aria-label="Adventure X Gallery">
+        <a href="https://www.maybeio.com/" aria-label="Possibility Website">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white" />
-            <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Gallery" height="18" />
+            <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="18" />
           </picture>
         </a>
+        <a href="https://gallery.adventure-x.org/users/cmpaohzs4000302ky3zdmd1k3" aria-label="Adventure X Gallery">🏆</a>
         <a href="https://github.com/YiWang24/possibility" aria-label="Possibility Repository">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
