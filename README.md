@@ -7,25 +7,20 @@
 [![CCA-F](https://img.shields.io/badge/Anthropic_CCA--F-Certified-d4a574?style=flat-square&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/55dac5dsnruv)
 [![Adventure X 2026](https://img.shields.io/badge/Adventure_X_2026-🏆_Track_1st-e63946?style=flat-square)](https://gallery.adventure-x.org/users/cmpaohzs4000302ky3zdmd1k3)
 
-I turn AI agents from demos into **production-grade systems** — multi-agent orchestration, tool contracts, guardrails, observability, and cost governance, shipped end-to-end.
-
 ---
 
-## 💼 Experience
+## 👋 About Me
 
-**PharmaLegacy** — AI Application Developer (FDE) · *2026.05 – 2026.08*
-> Multi-agent report automation for preclinical drug research (CRO) — LangGraph pipeline: data ingestion → stats → integrity gates → charting → writing → human review → GLP-compliant export.
+I turn AI agents from demos into **production-grade systems** — my favorite part is the unglamorous engineering that makes them reliable, observable, and affordable.
 
-- Hours of manual report work **converged to human review only**; every model action wrapped in Pydantic ToolContracts with typed input / output / error
-- **Zero-tolerance numeric hallucination**: all figures computed by rule engine with trace binding, fail-closed integrity gates between stages — every number in the report is auditable
-- Full observability: unified audit log + Arize Phoenix tracing, every deliverable reproducible step-by-step for GLP compliance
+**What I'm good at**
 
-**Morphace** (Toronto AI Skincare Startup, 7-person, all-English) — AI Agent Developer Intern · *2026.02 – 2026.04*
-> Sole owner of backend & AI agent module: data ingestion → skin scoring → agent reasoning → cache → CDN delivery.
+- **Agent orchestration** — LangGraph state machines, typed tool contracts, bounded workflows that turn free-form agents into controllable pipelines
+- **LLM reliability** — dual-layer guardrails (cut non-compliant output **~15% → <2%** in production), fail-closed integrity gates, rule-engine-verified numbers, full audit trails
+- **Cost & performance** — input-hash caching (**60–70% hit rate, <50 ms**), agent regression evals (**~10% fix-pass lift, token cost ~2M → ~70k per task**)
+- **0→1 delivery** — SwiftUI / Next.js / FastAPI / Spring Boot with CI/CD and monitoring; taking products from concept to production, solo or in small teams
 
-- LangGraph state machine (Planner → Tool → LLM → Guardrail → Fallback) with 5 deterministic MCP tools; dual-layer guardrails cut non-compliant output from **~15% → <2%**
-- Input-hash caching: **60–70% hit rate, <50 ms** cached responses (was 2–4 s)
-- Shipped community backend from 0→1 (cursor pagination, push-pull feed, <1 s live notifications) + full CI/CD + Prometheus — **zero P0 incidents**
+**What I'm into** — agentic product systems · applied LLM infrastructure · AI + full-stack delivery · developer knowledge platforms
 
 ---
 
@@ -59,14 +54,14 @@ I turn AI agents from demos into **production-grade systems** — multi-agent or
     </td>
     <td width="33%" valign="top">
       <h4>2) Ai DIY Docs</h4>
-      <a href="https://docs.yiw.me/">
+      <a href="https://docs.yilab.tech/">
         <img src="./assets/projects/aidiy-docs.png" alt="Ai DIY docs live preview" />
       </a>
       <p>
         <strong>Engineering knowledge base</strong> covering CS core, AI agents, backend/frontend, and DevOps — built as a production-ready documentation platform.
       </p>
       <p>
-        <a href="https://docs.yiw.me/" aria-label="Ai DIY Docs Website">
+        <a href="https://docs.yilab.tech/" aria-label="Ai DIY Docs Website">
           <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
         </a>
         <a href="https://github.com/YiWang24/AiDIY" aria-label="Ai DIY Docs Repository">
@@ -141,14 +136,14 @@ I turn AI agents from demos into **production-grade systems** — multi-agent or
     </td>
     <td width="33%" valign="top">
       <h4>SplitBase</h4>
-      <a href="https://split.yiw.me/">
+      <a href="https://split.yilab.tech/">
         <img src="./assets/projects/splitbase.png" alt="SplitBase live preview" />
       </a>
       <p>
         <strong>Base Pay bill-splitting app</strong> for group settlements with USDC, real-time status tracking, share links/QR flows, and optional NFT receipts.
       </p>
       <p>
-        <a href="https://split.yiw.me/" aria-label="SplitBase Website">
+        <a href="https://split.yilab.tech/" aria-label="SplitBase Website">
           <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
         </a>
         <a href="https://github.com/YiWang24/SplitBase" aria-label="SplitBase Repository">
