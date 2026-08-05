@@ -48,7 +48,10 @@ I turn AI agents from demos into **production-grade systems** — my favorite pa
       </p>
       <p>
         <a href="https://sredsimplify.com/" aria-label="SREDSimplify Website">
-          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white" />
+            <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="18" />
+          </picture>
         </a>
       </p>
     </td>
@@ -62,10 +65,16 @@ I turn AI agents from demos into **production-grade systems** — my favorite pa
       </p>
       <p>
         <a href="https://docs.yilab.tech/" aria-label="Ai DIY Docs Website">
-          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white" />
+            <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="18" />
+          </picture>
         </a>
         <a href="https://github.com/YiWang24/AiDIY" aria-label="Ai DIY Docs Repository">
-          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+            <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub Repository" height="18" />
+          </picture>
         </a>
       </p>
     </td>
@@ -76,7 +85,10 @@ I turn AI agents from demos into **production-grade systems** — my favorite pa
       </p>
       <p>
         <a href="https://github.com/YiAgent/openbot" aria-label="Openbot Repository">
-          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+            <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub Repository" height="18" />
+          </picture>
         </a>
       </p>
     </td>
@@ -87,23 +99,27 @@ I turn AI agents from demos into **production-grade systems** — my favorite pa
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h4>🏆 Possibility — <i>Adventure X 2026 Track 1st Prize</i></h4>
       <p>
         <strong>AI decision companion</strong> for young professionals navigating career transitions. A 3-stage funnel: streaming AI chat surfaces emotional context &amp; decision signals → structured matching with 3 real human experiences across different outcomes with rationale → paid conversion. Built solo in 6 days (189 commits) from concept to shipped product.
       </p>
       <p>
         <a href="https://gallery.adventure-x.org/users/cmpaohzs4000302ky3zdmd1k3" aria-label="Adventure X Gallery">
-          <img src="https://cdn.simpleicons.org/googlechrome" alt="Gallery" height="18" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white" />
+            <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Gallery" height="18" />
+          </picture>
         </a>
         <a href="https://github.com/YiWang24/possibility" aria-label="Possibility Repository">
-          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+            <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub Repository" height="18" />
+          </picture>
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h4>FitLogic</h4>
       <a href="https://fitlogic.vercel.app/">
         <img src="./assets/projects/fitlogic.png" alt="FitLogic live preview" />
@@ -113,11 +129,16 @@ I turn AI agents from demos into **production-grade systems** — my favorite pa
       </p>
       <p>
         <a href="https://fitlogic.vercel.app/" aria-label="FitLogic Website">
-          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white" />
+            <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="18" />
+          </picture>
         </a>
       </p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>SmartDiet Copilot</h4>
       <a href="https://dietcopilot.vercel.app/">
         <img src="./assets/projects/dietcopilot.png" alt="SmartDiet Copilot live preview" />
@@ -127,14 +148,20 @@ I turn AI agents from demos into **production-grade systems** — my favorite pa
       </p>
       <p>
         <a href="https://dietcopilot.vercel.app/" aria-label="SmartDiet Copilot Website">
-          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white" />
+            <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="18" />
+          </picture>
         </a>
         <a href="https://github.com/YiWang24/SmartDiet-Copilot" aria-label="SmartDiet Copilot Repository">
-          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+            <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub Repository" height="18" />
+          </picture>
         </a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h4>SplitBase</h4>
       <a href="https://split.yilab.tech/">
         <img src="./assets/projects/splitbase.png" alt="SplitBase live preview" />
@@ -144,10 +171,16 @@ I turn AI agents from demos into **production-grade systems** — my favorite pa
       </p>
       <p>
         <a href="https://split.yilab.tech/" aria-label="SplitBase Website">
-          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white" />
+            <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="18" />
+          </picture>
         </a>
         <a href="https://github.com/YiWang24/SplitBase" aria-label="SplitBase Repository">
-          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+            <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub Repository" height="18" />
+          </picture>
         </a>
       </p>
     </td>
