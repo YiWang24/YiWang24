@@ -74,18 +74,12 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
       </p>
     </td>
     <td width="33%" valign="top">
-      <h4>3) AI Portfolio Digital Twin</h4>
-      <a href="https://www.yiw.me/">
-        <img src="./assets/projects/yiw-portfolio.png" alt="Portfolio live preview" />
-      </a>
+      <h4>3) Openbot</h4>
       <p>
-        <strong>Multi-agent interactive portfolio</strong> with Google ADK orchestration, RAG retrieval, and streaming chat to answer resume/project questions in real time.
+        <strong>Self-hosted GitHub maintenance bot</strong> covering issue triage, bug reproduction, auto-fix, code review, and Q&A — designed for stable, controllable, and cost-efficient agent operation in real repositories. Achieved ~10% fix pass rate improvement and ~95% token cost reduction through bounded workflows and regression evaluation.
       </p>
       <p>
-        <a href="https://www.yiw.me/" aria-label="Portfolio Website">
-          <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" height="18" />
-        </a>
-        <a href="https://github.com/YiWang24/portfolio" aria-label="Portfolio Repository">
+        <a href="https://github.com/YiAgent/openbot" aria-label="Openbot Repository">
           <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
         </a>
       </p>
