@@ -97,27 +97,16 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🏆 Possibility — <i>Adventure X 2026 灵光赛道一等奖</i></h4>
+    <td valign="top">
+      <h4>🏆 Possibility — <i>Adventure X 2026 Track 1st Prize</i></h4>
       <p>
-        <strong>AI 决策陪伴产品</strong> for young professionals navigating career transitions. A 3-stage funnel: AI chat clarifies crossroads → structured matching with real human experience → paid conversion. Built solo in 6 days (189 commits).
+        <strong>AI decision companion</strong> for young professionals navigating career transitions. A 3-stage funnel: streaming AI chat surfaces emotional context &amp; decision signals → structured matching with 3 real human experiences across different outcomes with rationale → paid conversion. Built solo in 6 days (189 commits) from concept to shipped product.
       </p>
       <p>
         <a href="https://gallery.adventure-x.org/users/cmpaohzs4000302ky3zdmd1k3" aria-label="Adventure X Gallery">
           <img src="https://cdn.simpleicons.org/googlechrome" alt="Gallery" height="18" />
         </a>
         <a href="https://github.com/YiWang24/possibility" aria-label="Possibility Repository">
-          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Openbot</h4>
-      <p>
-        <strong>Self-hosted GitHub maintenance bot</strong> covering issue triage, bug reproduction, auto-fix, code review, and Q&A — designed for stable, controllable, and cost-efficient agent operation in real repositories.
-      </p>
-      <p>
-        <a href="https://github.com/YiAgent/openbot" aria-label="Openbot Repository">
           <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
         </a>
       </p>
