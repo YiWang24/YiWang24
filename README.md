@@ -6,6 +6,8 @@
 [![AiDIY](https://img.shields.io/badge/AiDIY-docs.yiw.me-00C7B7?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.yiw.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yiwang2025-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiwang2025/)
 [![Email](https://img.shields.io/badge/Email-wangyi98@my.yorku.ca-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wangyi98@my.yorku.ca)
+[![CCA-F](https://img.shields.io/badge/CCA--F-Anthropic_Certified-d4a574?style=flat-square&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/55dac5dsnruv)
+[![Adventure X 2026](https://img.shields.io/badge/Adventure_X_2026-Track_1st_🏆-e63946?style=flat-square)](https://gallery.adventure-x.org/users/cmpaohzs4000302ky3zdmd1k3)
 
 ---
 
@@ -94,6 +96,33 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
 ### Hackathon Products
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏆 Possibility — <i>Adventure X 2026 灵光赛道一等奖</i></h4>
+      <p>
+        <strong>AI 决策陪伴产品</strong> for young professionals navigating career transitions. A 3-stage funnel: AI chat clarifies crossroads → structured matching with real human experience → paid conversion. Built solo in 6 days (189 commits).
+      </p>
+      <p>
+        <a href="https://gallery.adventure-x.org/users/cmpaohzs4000302ky3zdmd1k3" aria-label="Adventure X Gallery">
+          <img src="https://cdn.simpleicons.org/googlechrome" alt="Gallery" height="18" />
+        </a>
+        <a href="https://github.com/YiWang24/possibility" aria-label="Possibility Repository">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Openbot</h4>
+      <p>
+        <strong>Self-hosted GitHub maintenance bot</strong> covering issue triage, bug reproduction, auto-fix, code review, and Q&A — designed for stable, controllable, and cost-efficient agent operation in real repositories.
+      </p>
+      <p>
+        <a href="https://github.com/YiAgent/openbot" aria-label="Openbot Repository">
+          <img src="https://cdn.simpleicons.org/github" alt="GitHub Repository" height="18" />
+        </a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="33%" valign="top">
       <h4>FitLogic</h4>
