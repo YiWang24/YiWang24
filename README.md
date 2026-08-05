@@ -2,7 +2,7 @@
 
 **AI Agent Engineer · Full-Stack Developer** — CS @ York University · Toronto, Canada
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yiw.me-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.yiw.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yilab.tech-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://yilab.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yiwang2025-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiwang2025/)
 [![CCA-F](https://img.shields.io/badge/Anthropic_CCA--F-Certified-d4a574?style=flat-square&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/55dac5dsnruv)
 [![Adventure X 2026](https://img.shields.io/badge/Adventure_X_2026-🏆_Track_1st-e63946?style=flat-square)](https://gallery.adventure-x.org/users/cmpaohzs4000302ky3zdmd1k3)
