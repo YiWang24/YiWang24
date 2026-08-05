@@ -1,42 +1,43 @@
 # Hi, I'm Yi Wang
 
-**AI Systems Builder · Full-Stack Engineer · Toronto, Canada**
+**AI Agent Engineer · Full-Stack Developer** — CS @ York University · Toronto, Canada
 
-[![Website](https://img.shields.io/badge/Portfolio-www.yiw.me-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.yiw.me)
-[![AiDIY](https://img.shields.io/badge/AiDIY-docs.yiw.me-00C7B7?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.yiw.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yiw.me-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://www.yiw.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yiwang2025-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiwang2025/)
-[![Email](https://img.shields.io/badge/Email-wangyi98@my.yorku.ca-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wangyi98@my.yorku.ca)
-[![CCA-F](https://img.shields.io/badge/CCA--F-Anthropic_Certified-d4a574?style=flat-square&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/55dac5dsnruv)
-[![Adventure X 2026](https://img.shields.io/badge/Adventure_X_2026-Track_1st_🏆-e63946?style=flat-square)](https://gallery.adventure-x.org/users/cmpaohzs4000302ky3zdmd1k3)
+[![CCA-F](https://img.shields.io/badge/Anthropic_CCA--F-Certified-d4a574?style=flat-square&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/55dac5dsnruv)
+[![Adventure X 2026](https://img.shields.io/badge/Adventure_X_2026-🏆_Track_1st-e63946?style=flat-square)](https://gallery.adventure-x.org/users/cmpaohzs4000302ky3zdmd1k3)
+
+I turn AI agents from demos into **production-grade systems** — multi-agent orchestration, tool contracts, guardrails, observability, and cost governance, shipped end-to-end.
 
 ---
 
-## About Me
+## 💼 Experience
 
-I am a CS student at **York University** focused on designing and shipping **AI-native products** that combine agent orchestration, reliable backend services, and strong product UX.
+**PharmaLegacy** — AI Application Developer (FDE) · *2026.05 – 2026.08*
+> Multi-agent report automation for preclinical drug research (CRO) — LangGraph pipeline: data ingestion → stats → integrity gates → charting → writing → human review → GLP-compliant export.
 
-I care most about long-term engineering directions:
-- **Direction 1 — Agentic Product Systems**: building practical multi-agent workflows for real user tasks.
-- **Direction 2 — Applied LLM Infrastructure**: RAG pipelines, retrieval quality, and robust inference workflows.
-- **Direction 3 — AI + Full-Stack Delivery**: turning models into production-ready web applications with measurable outcomes.
-- **Direction 4 — Developer Knowledge Platforms**: documenting reproducible patterns for AI engineering and software delivery.
+- Hours of manual report work **converged to human review only**; every model action wrapped in Pydantic ToolContracts with typed input / output / error
+- **Zero-tolerance numeric hallucination**: all figures computed by rule engine with trace binding, fail-closed integrity gates between stages — every number in the report is auditable
+- Full observability: unified audit log + Arize Phoenix tracing, every deliverable reproducible step-by-step for GLP compliance
 
-Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively open to collaboration on product-focused AI projects.
+**Morphace** (Toronto AI Skincare Startup, 7-person, all-English) — AI Agent Developer Intern · *2026.02 – 2026.04*
+> Sole owner of backend & AI agent module: data ingestion → skin scoring → agent reasoning → cache → CDN delivery.
 
----
-
-## Current Focus Map
-
-| Focus Direction | What I'm Building | Representative Output |
-| --- | --- | --- |
-| Agentic enterprise workflow | Structured claim intelligence and evidence-driven review | [SREDSimplify](https://sredsimplify.com/) |
-| AI engineering knowledge system | Production-style docs for CS/AI/backend/frontend/DevOps | [Ai DIY Docs](https://docs.yiw.me/) |
-| Interactive digital twin | Multi-agent portfolio with real-time Q&A and retrieval | [yiw.me](https://www.yiw.me/) |
-| Agentic consumer assistants | Personalized planning for fitness and nutrition contexts | [FitLogic](https://fitlogic.vercel.app/), [SmartDiet Copilot](https://dietcopilot.vercel.app/) |
+- LangGraph state machine (Planner → Tool → LLM → Guardrail → Fallback) with 5 deterministic MCP tools; dual-layer guardrails cut non-compliant output from **~15% → <2%**
+- Input-hash caching: **60–70% hit rate, <50 ms** cached responses (was 2–4 s)
+- Shipped community backend from 0→1 (cursor pagination, push-pull feed, <1 s live notifications) + full CI/CD + Prometheus — **zero P0 incidents**
 
 ---
 
-## Featured Projects
+## 🏅 Highlights
+
+- 🏆 **Adventure X 2026 — Track 1st Prize**: [Possibility](https://gallery.adventure-x.org/users/cmpaohzs4000302ky3zdmd1k3), AI decision companion — solo build, **6 days, 189 commits**, concept → shipped product
+- 📜 **[Anthropic Claude Certified Architect — Foundations (CCA-F)](https://verify.skilljar.com/c/55dac5dsnruv)**
+- 🔧 **Merged PR in [OpenClaw](https://github.com/openclaw/openclaw) (385k★)** — [PR #2143](https://github.com/openclaw/openclaw/pull/2143): fixed model failover retrying cooled-down OAuth channels (worst case ~1 h user-facing stall → **instant recovery**)
+
+---
+
+## 🚀 Featured Projects
 
 ### Core Products
 
@@ -48,7 +49,7 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
         <img src="./assets/projects/sredsimplify.png" alt="SREDSimplify live preview" />
       </a>
       <p>
-        <strong>SR&ED claim console</strong> with evidence ingestion, structured pre-checks, and audit-friendly T661 drafting workflow for founders and reviewers.
+        <strong>SR&amp;ED claim console</strong> with evidence ingestion, structured pre-checks, and audit-friendly T661 drafting workflow for founders and reviewers.
       </p>
       <p>
         <a href="https://sredsimplify.com/" aria-label="SREDSimplify Website">
@@ -62,7 +63,7 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
         <img src="./assets/projects/aidiy-docs.png" alt="Ai DIY docs live preview" />
       </a>
       <p>
-        <strong>Engineering knowledge base</strong> covering CS core, AI agents, backend/frontend, and DevOps content, built as a production-ready documentation platform.
+        <strong>Engineering knowledge base</strong> covering CS core, AI agents, backend/frontend, and DevOps — built as a production-ready documentation platform.
       </p>
       <p>
         <a href="https://docs.yiw.me/" aria-label="Ai DIY Docs Website">
@@ -76,7 +77,7 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
     <td width="33%" valign="top">
       <h4>3) Openbot</h4>
       <p>
-        <strong>Self-hosted GitHub maintenance bot</strong> covering issue triage, bug reproduction, auto-fix, code review, and Q&A — designed for stable, controllable, and cost-efficient agent operation in real repositories. Achieved ~10% fix pass rate improvement and ~95% token cost reduction through bounded workflows and regression evaluation.
+        <strong>Self-hosted GitHub maintenance bot</strong> — issue triage, bug reproduction, auto-fix, code review, Q&amp;A. Bounded workflows + regression eval: <strong>~10% fix pass improvement, token cost ~2M → ~70k per task</strong>.
       </p>
       <p>
         <a href="https://github.com/YiAgent/openbot" aria-label="Openbot Repository">
@@ -160,47 +161,18 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
 
 ---
 
-## Tech Stack (Aligned with Recent Projects)
+## 🛠 Tech Stack
 
-### AI & Agent Systems
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langgraph&logoColor=white)
-
-### Application Engineering
-![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java_21-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Frontend & Product Delivery
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### DevOps & Workflow
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+| | |
+|---|---|
+| **Agent / LLM** | LangGraph · LangChain · RAG · MCP · Structured Output &amp; Guardrails · Agent Eval &amp; Cost Control |
+| **Languages** | Python · TypeScript / JavaScript · Java · Swift · SQL |
+| **Backend &amp; Frontend** | FastAPI · Spring Boot · Next.js / React · SwiftUI · PostgreSQL / pgvector · Redis · Celery |
+| **DevOps / Cloud** | Docker · GitHub Actions · AWS · Vercel · Linux |
 
 ---
 
-## Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YiWang24/YiWang24/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-myl.vercel.app/api?username=YiWang24&show_icons=true&theme=default&hide_border=true&include_all_commits=true&bg_color=ffffff&title_color=6366f1&text_color=1f2937&icon_color=6366f1" alt="GitHub Stats" height="170" />
@@ -210,5 +182,5 @@ Contributor at [OpenClaw](https://github.com/openclaw/openclaw), and actively op
 ---
 
 <p align="center">
-  <i>Building reliable AI products through clear engineering direction.</i>
+  <i>Turning AI agents into production systems with measurable outcomes.</i>
 </p>
