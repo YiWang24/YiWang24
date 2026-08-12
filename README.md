@@ -124,18 +124,24 @@ I turn AI agents from demos into **production-grade systems** — my favorite pa
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>FitLogic</h4>
-      <a href="https://fitlogic.vercel.app/">
-        <img src="./assets/projects/fitlogic.png" alt="FitLogic live preview" />
+      <h4>🥈 SplitBase — <i>NTU x Base Web3 Hackathon 2nd Place</i></h4>
+      <a href="https://split.yilab.tech/">
+        <img src="./assets/projects/splitbase.png" alt="SplitBase live preview" />
       </a>
       <p>
-        <strong>AI fitness coaching experience</strong> focused on adaptive training + nutrition logic, progress analytics, and coach-assisted personalization.
+        <strong>Base Pay bill-splitting app</strong> for group settlements with USDC, real-time status tracking, share links/QR flows, and optional NFT receipts.
       </p>
       <p>
-        <a href="https://fitlogic.vercel.app/" aria-label="FitLogic Website">
+        <a href="https://split.yilab.tech/" aria-label="SplitBase Website">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white" />
             <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="18" />
+          </picture>
+        </a>
+        <a href="https://github.com/YiWang24/SplitBase" aria-label="SplitBase Repository">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+            <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub Repository" height="18" />
           </picture>
         </a>
       </p>
@@ -166,24 +172,18 @@ I turn AI agents from demos into **production-grade systems** — my favorite pa
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>SplitBase</h4>
-      <a href="https://split.yilab.tech/">
-        <img src="./assets/projects/splitbase.png" alt="SplitBase live preview" />
+      <h4>FitLogic</h4>
+      <a href="https://fitlogic.vercel.app/">
+        <img src="./assets/projects/fitlogic.png" alt="FitLogic live preview" />
       </a>
       <p>
-        <strong>Base Pay bill-splitting app</strong> for group settlements with USDC, real-time status tracking, share links/QR flows, and optional NFT receipts.
+        <strong>AI fitness coaching experience</strong> focused on adaptive training + nutrition logic, progress analytics, and coach-assisted personalization.
       </p>
       <p>
-        <a href="https://split.yilab.tech/" aria-label="SplitBase Website">
+        <a href="https://fitlogic.vercel.app/" aria-label="FitLogic Website">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/googlechrome/white" />
             <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" height="18" />
-          </picture>
-        </a>
-        <a href="https://github.com/YiWang24/SplitBase" aria-label="SplitBase Repository">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
-            <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub Repository" height="18" />
           </picture>
         </a>
       </p>
